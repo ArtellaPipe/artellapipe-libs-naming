@@ -1,0 +1,17 @@
+artellapipe.libs.naming.core package
+====================================
+
+Submodules
+----------
+
+.. toctree::
+
+   artellapipe.libs.naming.core.naminglib
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.libs.naming.core
+   :members:
+   :undoc-members:
+   :show-inheritance:

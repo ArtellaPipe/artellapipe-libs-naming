@@ -1,0 +1,7 @@
+artellapipe.libs.naming.core.naminglib module
+=============================================
+
+.. automodule:: artellapipe.libs.naming.core.naminglib
+   :members:
+   :undoc-members:
+   :show-inheritance:
