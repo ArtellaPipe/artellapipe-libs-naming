@@ -12,8 +12,8 @@ __license__ = "MIT"
 __maintainer__ = "Tomas Poveda"
 __email__ = "tpovedatd@gmail.com"
 
-from tpPyUtils import decorators
-from tpNameIt.core import namelib
+from tpDcc.libs.python import decorators
+from tpDcc.libs.nameit.core import namelib
 
 from artellapipe.libs import naming
 
